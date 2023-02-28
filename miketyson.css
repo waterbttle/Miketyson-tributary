@@ -1,0 +1,43 @@
+html{
+    background: #101935 ;
+}
+
+body{
+    color: #fcd7ad;
+}
+
+head{
+    font-family: "Anton",
+}
+
+h1{
+    padding: 2rem;
+    
+    font-size: 5rem;
+}
+
+.center{
+    display: block;
+    
+    margin-right: auto;
+    width: 30%;
+    height: 30%;
+    margin: 10px;
+
+    float: right;
+}
+
+.quote{
+    
+    padding: 2rem;
+    font-size: 2rem;
+}
+
+main{
+    color: #fcd7ad;
+    font-size: 15px;
+    margin: auto;
+    padding: 2rem;
+}
+
+
